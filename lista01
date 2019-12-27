@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura HD" group-title="ABERTOS", TV Cultura HD
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S9X6xYZECsA/XgVIsXGVeYI/AAAAAAAAB5E/-RZezuJO-aY7SoglCD7DJ5CYhJxNfUmVACEwYBhgL/s1600/R_A.jpg" tvg-name="TV Atividade" group-title="INTERNACIONAIS", TV Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VrD0xmaDWNg/XgT3kvg7aEI/AAAAAAAAB3w/INnxS22DXIEeyawIamnZ3U2YQSHXcAukwCLcBGAsYHQ/s1600/RS21.jpg" tvg-name="Rede Séc.21" group-title="RELIGIOSOS", Rede Séc.21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqrt_zRljKw/XgVIsbWuEqI/AAAAAAAAB5M/UdlMMjtuMP8JR63Hm2QV2IfMf1LOAu0rgCEwYBhgL/s1600/RM_TV.jpg" tvg-name="Real Madrid TV" group-title="ESPORTES", Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
