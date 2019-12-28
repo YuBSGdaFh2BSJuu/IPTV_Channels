@@ -1,0 +1,114 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eRu04LECXGg/XgUDAW0KB8I/AAAAAAAAB4I/DO3e-xglhrw6LdBq0r2JGqQeRyTViEPuACLcBGAsYHQ/s1600/TV_B.jpg" tvg-name="TV Brasil" group-title="ABERTOS", TV Brasil
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT HD" group-title="ABERTOS", SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT PI HD op.1" group-title="ABERTOS", SBT PI HD op.1
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT MA op.2" group-title="ABERTOS", SBT MA op.2
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV" group-title="ABERTOS", Rede TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV SP" group-title="ABERTOS", Rede TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida HD" group-title="ABERTOS", TV Aparecida HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida" group-title="ABERTOS", TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura HD op.1" group-title="ABERTOS", TV Cultura HD op.1
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura HD op.2" group-title="ABERTOS", TV Cultura HD op.2
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura SD" group-title="ABERTOS", TV Cultura SD
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6CC4UYsEdW8/XgVJYOpD8MI/AAAAAAAAB5Y/9oTnFcGPI5Mq4KozZEHemJAiADc5tlIUgCLcBGAsYHQ/s1600/TV_E.jpg" tvg-name="TV Evangelizar" group-title="ABERTOS", TV Evangelizar
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RPLrT4hO094/XgaoXyHvFRI/AAAAAAAAB7Q/yUefVYw51rQ-508GZcdHeEVehTZVT6o0QCLcBGAsYHQ/s1600/TV_CA.jpg" tvg-name="TV Camara" group-title="ABERTOS", TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kq-pqfa8q9Y/XgYVib-PPLI/AAAAAAAAB5k/aj39U6JyCusZrcC6XVGAisxcutCPShlxACLcBGAsYHQ/s1600/TV_J.jpg" tvg-name="TV Jornal" group-title="ABERTOS", TV Jornal
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MFeiBP5GNRs/XgYWvWKNtoI/AAAAAAAAB5s/WNFIeRYu6bw65gYAfqqGOOxgjB3LD5XowCLcBGAsYHQ/s1600/R_S.jpg" tvg-name="Rede Super" group-title="ABERTOS", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-K5qEH9lDjcQ/XgYYQRwbLHI/AAAAAAAAB54/xqnCnISFWBMs0v8_qvV5tvvTEzvQ8crpgCLcBGAsYHQ/s1600/TVE_B.jpg" tvg-name="TVE Bahia" group-title="ABERTOS", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7-K1vNxRq48/XgYYet87xlI/AAAAAAAAB58/3IM-NvUYK08AkWk9Pfwk8gaN_cQ8PGmwACLcBGAsYHQ/s1600/TVE.jpg" tvg-name="TV Educativa" group-title="ABERTOS", TV Educativa
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zwi4W_KDI-g/XgYafJBQK4I/AAAAAAAAB6M/9TQbGyFD-VMPfj0b-czCXyEOiN457RzYgCLcBGAsYHQ/s1600/F.jpg" tvg-name="Futura" group-title="ABERTOS", Futura
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xvkhpAumFiA/XgYeaMve-9I/AAAAAAAAB6s/XKn2ftOVTrs5AkQmMlBf9x2cCdUvQIfpQCLcBGAsYHQ/s1600/M_W_TV.jpg" tvg-name="MKK Web TV" group-title="ABERTOS", MKK Web TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
+
+################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UZZgj3Nq1o8/XgT7amaGeXI/AAAAAAAAB38/DNfrpeBwt6o4ELW-_AG96TXW-mRXMzTAQCLcBGAsYHQ/s1600/PA.jpg" tvg-name="Planeta Animal" group-title="INTERNACIONAIS", Planeta Animal
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S9X6xYZECsA/XgVIsXGVeYI/AAAAAAAAB5E/-RZezuJO-aY7SoglCD7DJ5CYhJxNfUmVACEwYBhgL/s1600/R_A.jpg" tvg-name="TV Atividade" group-title="INTERNACIONAIS", TV Atividade
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IZE6QWNMX1k/XgYcB8UJPfI/AAAAAAAAB6Y/ybc1Nk1uLAIdfwLX9KIpi54fE97D7wAQgCLcBGAsYHQ/s1600/NTV.jpg" tvg-name="NTV" group-title="INTERNACIONAIS", NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-prAQRD3Wqp4/XgYc-aETNHI/AAAAAAAAB6g/9ramRXsGEZ8ba1SEBtRcLUA0_puasvb7wCLcBGAsYHQ/s1600/S_TV.jpg" tvg-name="Star TV" group-title="INTERNACIONAIS", Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RB1n9VxxGns/XgatKUGzObI/AAAAAAAAB7o/N3-edHEpbdceKIppQpRaOH7Vs9GoXQMgwCLcBGAsYHQ/s1600/B.jpg" tvg-name="Bloomberg" group-title="INTERNACIONAIS", Bloomberg
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ox9OkNK9VQ4/XgaunuX4HvI/AAAAAAAAB70/R3taobF8wPUb0sbTQWdC6XJU0ecJQ9owgCLcBGAsYHQ/s1600/F25.jpg" tvg-name="Fox 25" group-title="INTERNACIONAIS", Fox 25
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DSAcOFKWBMg/XgawB6oWQfI/AAAAAAAAB8A/xGiM5Xcy7aEZVMHNzikDYxZbqWK8SPfNQCLcBGAsYHQ/s1600/F24.jpg" tvg-name="France 24" group-title="INTERNACIONAIS", France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OZqFO-YyYGg/XgaxOdG9D7I/AAAAAAAAB8I/-YRSrlQJy9sRBEgG6Ls6h1jPThw3LjOkwCLcBGAsYHQ/s1600/RB_TV.jpg" tvg-name="Red Bull TV" group-title="INTERNACIONAIS", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VrD0xmaDWNg/XgT3kvg7aEI/AAAAAAAAB3w/INnxS22DXIEeyawIamnZ3U2YQSHXcAukwCLcBGAsYHQ/s1600/RS21.jpg" tvg-name="Rede Séc.21" group-title="RELIGIOSOS", Rede Séc.21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-shjwOhIc0qk/XgarNhIvs1I/AAAAAAAAB7c/C8aAISGX2mseEBgsILyL23RZ9DbhWc-TwCLcBGAsYHQ/s1600/TV_U.jpg" tvg-name="TV Universal HD" group-title="RELIGIOSOS", TV Universal HD
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ny0cEt9HqUM/XgVIZ1kgNjI/AAAAAAAAB40/qENTOS5hrAgv5mU08K548CNFGcMr2u9ZwCLcBGAsYHQ/s1600/G_M.jpg" tvg-name="Gospel Movies" group-title="RELIGIOSOS", Gospel Movies
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4dGEiVmlPEI/Xgay4O0wc0I/AAAAAAAAB8U/psNRq3tPQz0Xm8no-PO0W38_iy9CvnleQCLcBGAsYHQ/s1600/GC.jpg" tvg-name="Gospel Cartoon" group-title="RELIGIOSOS", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0N1SrVW8LV4/Xga0H7DF3WI/AAAAAAAAB8c/D21pehwcYdYO995VCYOV4d2fPBluEGnHgCLcBGAsYHQ/s1600/KK.jpg" tvg-name="Kuriakos Kids" group-title="RELIGIOSOS", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Z20CEvJVajw/Xga1UYVU-nI/AAAAAAAAB8k/0R1Vjscqd5YkIqjrbM-AkRD86cGD1eUwgCLcBGAsYHQ/s1600/TV_M.jpg" tvg-name="TV Maceió" group-title="RELIGIOSOS", TV Maceió
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqrt_zRljKw/XgVIsbWuEqI/AAAAAAAAB5M/UdlMMjtuMP8JR63Hm2QV2IfMf1LOAu0rgCEwYBhgL/s1600/RM_TV.jpg" tvg-name="Real Madrid TV op.1" group-title="ESPORTES", Real Madrid TV op.1
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqrt_zRljKw/XgVIsbWuEqI/AAAAAAAAB5M/UdlMMjtuMP8JR63Hm2QV2IfMf1LOAu0rgCEwYBhgL/s1600/RM_TV.jpg" tvg-name="Real Madrid TV op.2" group-title="ESPORTES", Real Madrid TV op.2
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?ANTONYGTV
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vWIiKJ09Kvo/XgVIsTDqemI/AAAAAAAAB5A/hc4ZFF_Ec_g8Rjm7Mz5LH_B8kzxFHk-xQCLcBGAsYHQ/s1600/A_S.jpg" tvg-name="All Sports" group-title="ESPORTES", All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
