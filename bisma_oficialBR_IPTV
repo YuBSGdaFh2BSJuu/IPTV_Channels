@@ -1,21 +1,22 @@
 #EXTM3U
+
+################################################################################################################
+ABERTOS
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eRu04LECXGg/XgUDAW0KB8I/AAAAAAAAB4I/DO3e-xglhrw6LdBq0r2JGqQeRyTViEPuACLcBGAsYHQ/s1600/TV_B.jpg" tvg-name="TV Brasil" group-title="ABERTOS", TV Brasil
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT HD" group-title="ABERTOS", SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV SP op.1" group-title="ABERTOS", Rede TV SP op.1
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT PI HD op.1" group-title="ABERTOS", SBT PI HD op.1
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV SP op.2" group-title="ABERTOS", Rede TV SP op.2
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT MA op.2" group-title="ABERTOS", SBT MA op.2
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV SP op.3" group-title="ABERTOS", Rede TV SP op.3
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV" group-title="ABERTOS", Rede TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV SP" group-title="ABERTOS", Rede TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida HD" group-title="ABERTOS", TV Aparecida HD
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
@@ -32,11 +33,11 @@ http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura SD" group-title="ABERTOS", TV Cultura SD
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6CC4UYsEdW8/XgVJYOpD8MI/AAAAAAAAB5Y/9oTnFcGPI5Mq4KozZEHemJAiADc5tlIUgCLcBGAsYHQ/s1600/TV_E.jpg" tvg-name="TV Evangelizar" group-title="ABERTOS", TV Evangelizar
-http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RPLrT4hO094/XgaoXyHvFRI/AAAAAAAAB7Q/yUefVYw51rQ-508GZcdHeEVehTZVT6o0QCLcBGAsYHQ/s1600/TV_CA.jpg" tvg-name="TV Camara" group-title="ABERTOS", TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HMIP1S-JRU8/XgdxtAgCQVI/AAAAAAAAB9Q/Frb5aFMaqXE8g3OFp-PyDH-1-7GpTAsWQCLcBGAsYHQ/s1600/TV_G.jpg" tvg-name="TV Gazeta" group-title="ABERTOS", TV Gazeta
+http://wse01.logicahost.com.br:1935/televisaorn/_definst_/televisaorn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kq-pqfa8q9Y/XgYVib-PPLI/AAAAAAAAB5k/aj39U6JyCusZrcC6XVGAisxcutCPShlxACLcBGAsYHQ/s1600/TV_J.jpg" tvg-name="TV Jornal" group-title="ABERTOS", TV Jornal
 http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8
@@ -53,10 +54,35 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Zwi4W_KDI-g/XgYafJBQK4I/AAAAAAAAB6M/9TQbGyFD-VMPfj0b-czCXyEOiN457RzYgCLcBGAsYHQ/s1600/F.jpg" tvg-name="Futura" group-title="ABERTOS", Futura
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bQ24RuJUNx4/Xgdr9YjJliI/AAAAAAAAB84/KXRwkgSAlao9P8NuxLiQOm2oPUrEgOoiwCLcBGAsYHQ/s1600/A_B.jpg" tvg-name="Agro Brasil" group-title="ABERTOS", Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?LISTASDAGLAU
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xvkhpAumFiA/XgYeaMve-9I/AAAAAAAAB6s/XKn2ftOVTrs5AkQmMlBf9x2cCdUvQIfpQCLcBGAsYHQ/s1600/M_W_TV.jpg" tvg-name="MKK Web TV" group-title="ABERTOS", MKK Web TV
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
 
 ################################################################################################################
+REDE SBT
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT FULL HD" group-title="REDE SBT", SBT FULL HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT HD" group-title="REDE SBT", SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT PI HD op.1" group-title="REDE SBT", SBT PI HD op.1
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT PI HD op.2" group-title="REDE SBT", SBT PI HD op.2
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT SBT PI HD" group-title="REDE SBT", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT MA op.2" group-title="REDE SBT", SBT MA op.2
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+################################################################################################################
+INTERNACIONAIS
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UZZgj3Nq1o8/XgT7amaGeXI/AAAAAAAAB38/DNfrpeBwt6o4ELW-_AG96TXW-mRXMzTAQCLcBGAsYHQ/s1600/PA.jpg" tvg-name="Planeta Animal" group-title="INTERNACIONAIS", Planeta Animal
 http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
@@ -82,13 +108,26 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OZqFO-YyYGg/XgaxOdG9D7I/AAAAAAAAB8I/-YRSrlQJy9sRBEgG6Ls6h1jPThw3LjOkwCLcBGAsYHQ/s1600/RB_TV.jpg" tvg-name="Red Bull TV" group-title="INTERNACIONAIS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PvMj-cwwVTs/Xgdqun9GhkI/AAAAAAAAB8w/7U-tq97HTGY0SWkmIaruaOdI7LM01Lh0QCLcBGAsYHQ/s1600/HL.jpg" tvg-name="History Lab" group-title="INTERNACIONAIS", History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+
 ################################################################################################################
+RELIGIOSOS
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VrD0xmaDWNg/XgT3kvg7aEI/AAAAAAAAB3w/INnxS22DXIEeyawIamnZ3U2YQSHXcAukwCLcBGAsYHQ/s1600/RS21.jpg" tvg-name="Rede Séc.21" group-title="RELIGIOSOS", Rede Séc.21
 http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-shjwOhIc0qk/XgarNhIvs1I/AAAAAAAAB7c/C8aAISGX2mseEBgsILyL23RZ9DbhWc-TwCLcBGAsYHQ/s1600/TV_U.jpg" tvg-name="TV Universal HD" group-title="RELIGIOSOS", TV Universal HD
 https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6CC4UYsEdW8/XgVJYOpD8MI/AAAAAAAAB5Y/9oTnFcGPI5Mq4KozZEHemJAiADc5tlIUgCLcBGAsYHQ/s1600/TV_E.jpg" tvg-name="TV Evangelizar" group-title="RELIGIOSOS", TV Evangelizar
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AGw47U1jP8k/XgdtYkka_MI/AAAAAAAAB9E/2H8031k2D2stn5ax1-UUdizR_qtJJkd8wCLcBGAsYHQ/s1600/TV_C_N.jpg" tvg-name="Canção Nova HD" group-title="RELIGIOSOS", Canção Nova HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?EDSONSOUSALIST
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AGw47U1jP8k/XgdtYkka_MI/AAAAAAAAB9E/2H8031k2D2stn5ax1-UUdizR_qtJJkd8wCLcBGAsYHQ/s1600/TV_C_N.jpg" tvg-name="Canção Nova SD" group-title="RELIGIOSOS", Canção Nova SD
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ny0cEt9HqUM/XgVIZ1kgNjI/AAAAAAAAB40/qENTOS5hrAgv5mU08K548CNFGcMr2u9ZwCLcBGAsYHQ/s1600/G_M.jpg" tvg-name="Gospel Movies" group-title="RELIGIOSOS", Gospel Movies
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
@@ -103,6 +142,7 @@ http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
 http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 ################################################################################################################
+ESPORTES
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqrt_zRljKw/XgVIsbWuEqI/AAAAAAAAB5M/UdlMMjtuMP8JR63Hm2QV2IfMf1LOAu0rgCEwYBhgL/s1600/RM_TV.jpg" tvg-name="Real Madrid TV op.1" group-title="ESPORTES", Real Madrid TV op.1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
