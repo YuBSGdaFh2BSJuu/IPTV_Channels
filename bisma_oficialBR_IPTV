@@ -18,11 +18,11 @@ http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ukZe5CSPUvI/XgVItVSegfI/AAAAAAAAB5U/rjWDujexbA83rDGkhI3_25B_eHttLRcRgCEwYBhgL/s1600/R_TV.jpg" tvg-name="Rede TV" group-title="ABERTOS", Rede TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida HD" group-title="ABERTOS", TV Aparecida HD
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-njzZb8AHQP8/XgfuslKqOmI/AAAAAAAACAk/runWYlg-aLQJmceFOJ4H-j5pJxhzrPMQgCLcBGAsYHQ/s1600/B_TV.jpg" tvg-name="Band SP" group-title="ABERTOS", Band SP
+http://list.deeplist.nl/live/jcantel01/cantel123/1713.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida" group-title="ABERTOS", TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-njzZb8AHQP8/XgfuslKqOmI/AAAAAAAACAk/runWYlg-aLQJmceFOJ4H-j5pJxhzrPMQgCLcBGAsYHQ/s1600/B_TV.jpg" tvg-name="Band SP HD" group-title="ABERTOS", Band SP HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52595.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-t4pE6joxRUw/XgUXdlXinyI/AAAAAAAAB4g/6QSB1D4mpOkWw5EpPukZGup17FI6CehHQCLcBGAsYHQ/s1600/TV_C.jpg" tvg-name="TV Cultura HD op.1" group-title="ABERTOS", TV Cultura HD op.1
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
@@ -61,6 +61,105 @@ http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?LISTASDAGLAU
 http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1536001136.m3u8
 
 ################################################################################################################
+REDE GLOBO
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo AC HD" group-title="REDE GLOBO", Globo AC HD
+http://list.deeplist.nl/live/jcantel01/cantel123/49721.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo AC SD 1" group-title="REDE GLOBO", Globo AC SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/49720.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo AC SD 2" group-title="REDE GLOBO", Globo AC SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/49722.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG HD+" group-title="REDE GLOBO", Globo MG HD+
+http://list.deeplist.nl/live/jcantel01/cantel123/21803.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG SD 1" group-title="REDE GLOBO", Globo MG SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38654.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG SD 2" group-title="REDE GLOBO", Globo MG SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38655.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG SD 3" group-title="REDE GLOBO", Globo MG SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38656.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG SD 4" group-title="REDE GLOBO", Globo MG SD 4
+http://list.deeplist.nl/live/jcantel01/cantel123/2412.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo MG SD+" group-title="REDE GLOBO", Globo MG SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/22367.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo Nordeste SD 1" group-title="REDE GLOBO", Globo Nordeste SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38667.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IOzqW3iCP0s/Xges5QfrxCI/AAAAAAAAB9o/EL-qiJwLmi4Pgkl8qY0814L12SFy2Y2YACLcBGAsYHQ/s1600/R_GN.jpg" tvg-name="Globo News HD" group-title="REDE GLOBO", Globo News HD
+http://list.deeplist.nl/live/jcantel01/cantel123/5085.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IOzqW3iCP0s/Xges5QfrxCI/AAAAAAAAB9o/EL-qiJwLmi4Pgkl8qY0814L12SFy2Y2YACLcBGAsYHQ/s1600/R_GN.jpg" tvg-name="Globo News SD 1" group-title="REDE GLOBO", Globo News SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38716.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IOzqW3iCP0s/Xges5QfrxCI/AAAAAAAAB9o/EL-qiJwLmi4Pgkl8qY0814L12SFy2Y2YACLcBGAsYHQ/s1600/R_GN.jpg" tvg-name="Globo News SD 2" group-title="REDE GLOBO", Globo News SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38714.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IOzqW3iCP0s/Xges5QfrxCI/AAAAAAAAB9o/EL-qiJwLmi4Pgkl8qY0814L12SFy2Y2YACLcBGAsYHQ/s1600/R_GN.jpg" tvg-name="Globo News SD+" group-title="REDE GLOBO", Globo News SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/23980.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gyB-qp2F2bs/XgevHakUXBI/AAAAAAAAB90/pDbNcNEWJucvkphIlAyixZY19IwYoKziQCLcBGAsYHQ/s1600/R_G_AM.jpg" tvg-name="Globo AM SD 1" group-title="REDE GLOBO", Globo AM SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38671.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gyB-qp2F2bs/XgevHakUXBI/AAAAAAAAB90/pDbNcNEWJucvkphIlAyixZY19IwYoKziQCLcBGAsYHQ/s1600/R_G_AM.jpg" tvg-name="Globo AM SD 2" group-title="REDE GLOBO", Globo AM SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/9580.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gyB-qp2F2bs/XgevHakUXBI/AAAAAAAAB90/pDbNcNEWJucvkphIlAyixZY19IwYoKziQCLcBGAsYHQ/s1600/R_G_AM.jpg" tvg-name="Globo AM SD 3" group-title="REDE GLOBO", Globo AM SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/40436.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gyB-qp2F2bs/XgevHakUXBI/AAAAAAAAB90/pDbNcNEWJucvkphIlAyixZY19IwYoKziQCLcBGAsYHQ/s1600/R_G_AM.jpg" tvg-name="Globo AM SD+" group-title="REDE GLOBO", Globo AM SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/38451.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RJ FULL HD" group-title="REDE GLOBO", Globo RJ FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52618.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RJ SD 1" group-title="REDE GLOBO", Globo RJ SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38662.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RJ SD 2" group-title="REDE GLOBO", Globo RJ SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38663.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RR SD 1" group-title="REDE GLOBO", Globo RR SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/49730.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RR SD 2" group-title="REDE GLOBO", Globo RR SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/49731.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo RR SD+" group-title="REDE GLOBO", Globo RR SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/49732.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo SP SD 1" group-title="REDE GLOBO", Globo SP SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38658.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo SP SD 2" group-title="REDE GLOBO", Globo SP SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38659.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cjbsaQq-88M/XgeqGuCcV4I/AAAAAAAAB9c/FpbUlUEgHsoECW1LZrZX80IK5Q2ZQ66zgCLcBGAsYHQ/s1600/R_G.jpg" tvg-name="Globo SP SD+" group-title="REDE GLOBO", Globo SP SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/22359.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kz1e-7rGkX4/Xgeyl4r8AiI/AAAAAAAAB-A/spJtbk-L0k4zxCCSBN2-6vasnOIOZxiYgCLcBGAsYHQ/s1600/R_GA.jpg" tvg-name="Globo Anhaguera SD 1" group-title="REDE GLOBO", Globo Anhanguera SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/49716.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kz1e-7rGkX4/Xgeyl4r8AiI/AAAAAAAAB-A/spJtbk-L0k4zxCCSBN2-6vasnOIOZxiYgCLcBGAsYHQ/s1600/R_GA.jpg" tvg-name="Globo Anhaguera SD 2" group-title="REDE GLOBO", Globo Anhanguera SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/49717.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kz1e-7rGkX4/Xgeyl4r8AiI/AAAAAAAAB-A/spJtbk-L0k4zxCCSBN2-6vasnOIOZxiYgCLcBGAsYHQ/s1600/R_GA.jpg" tvg-name="Globo Anhaguera SD+" group-title="REDE GLOBO", Globo Anhanguera SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/49718.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1PuJBKVCjWM/Xge0SFVWU5I/AAAAAAAAB-M/xzxAeILFE1M8WJ0TQ6FI_KVVkf9Kjt24wCLcBGAsYHQ/s1600/R_GBA.jpg" tvg-name="Globo BA" group-title="REDE GLOBO", Globo BA
+http://list.deeplist.nl/live/jcantel01/cantel123/52684.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dYVADqIHuiA/Xge0duSiqDI/AAAAAAAAB-Q/tRFOJAkVSjoP8RapnJ3AHDjWASkrH6eVwCLcBGAsYHQ/s1600/R_G_CA.jpg" tvg-name="Globo Centro América" group-title="REDE GLOBO", Globo Centro América
+http://list.deeplist.nl/live/jcantel01/cantel123/52683.m3u8
+
+################################################################################################################
 REDE SBT
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT FULL HD" group-title="REDE SBT", SBT FULL HD
@@ -80,6 +179,45 @@ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?ED
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NVX0kghtsDE/XgUFUNjiupI/AAAAAAAAB4U/cYpRoVkoUCYXMTw_OB0Th4LzKo9BERERwCLcBGAsYHQ/s1600/SBT.jpg" tvg-name="SBT MA op.2" group-title="REDE SBT", SBT MA op.2
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+################################################################################################################
+DESENHOS
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-15LBdra3Cgs/XgfZw-8t60I/AAAAAAAAB-g/ZQkZanmsmNsLfVyYwtCz0QNcJ_nXw3Y2QCLcBGAsYHQ/s1600/CN.jpg" tvg-name="Cartoon Network HD" group-title="DESENHOS", Cartoon Network HD
+http://list.deeplist.nl/live/jcantel01/cantel123/43516.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-15LBdra3Cgs/XgfZw-8t60I/AAAAAAAAB-g/ZQkZanmsmNsLfVyYwtCz0QNcJ_nXw3Y2QCLcBGAsYHQ/s1600/CN.jpg" tvg-name="Cartoon Network" group-title="DESENHOS", Cartoon Network
+http://list.deeplist.nl/live/jcantel01/cantel123/1095.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A5aMEeBA_sQ/XgfbtZbztnI/AAAAAAAAB-8/Lh_Iz-iP_JMIPwyYd75uNMtEnnqeo0pXwCLcBGAsYHQ/s1600/DC.jpg" tvg-name="Discovery Channel FULL HD" group-title="DESENHOS", Discovery Channel FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52605.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A5aMEeBA_sQ/XgfbtZbztnI/AAAAAAAAB-8/Lh_Iz-iP_JMIPwyYd75uNMtEnnqeo0pXwCLcBGAsYHQ/s1600/DC.jpg" tvg-name="Discovery Channel HD" group-title="DESENHOS", Discovery Channel HD
+http://list.deeplist.nl/live/jcantel01/cantel123/2410.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A5aMEeBA_sQ/XgfbtZbztnI/AAAAAAAAB-8/Lh_Iz-iP_JMIPwyYd75uNMtEnnqeo0pXwCLcBGAsYHQ/s1600/DC.jpg" tvg-name="Discovery Channel" group-title="DESENHOS", Discovery Channel
+http://list.deeplist.nl/live/jcantel01/cantel123/1084.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jF4xuN8cvOg/XgfaBb0yWmI/AAAAAAAAB-k/PbPqjTemNSAfbsyB6LfxepE09DUCPMUaQCLcBGAsYHQ/s1600/G.jpg" tvg-name="Gloob SD" group-title="DESENHOS", Gloob SD
+http://list.deeplist.nl/live/jcantel01/cantel123/38717.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jF4xuN8cvOg/XgfaBb0yWmI/AAAAAAAAB-k/PbPqjTemNSAfbsyB6LfxepE09DUCPMUaQCLcBGAsYHQ/s1600/G.jpg" tvg-name="Gloob SD+" group-title="DESENHOS", Gloob SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/28406.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dDOiiymsdq0/XgfaSKuKmgI/AAAAAAAAB-w/-l7rJ_kwOtMN0OcJ3JqF2wSvLWxwGLsfwCLcBGAsYHQ/s1600/GB.jpg" tvg-name="Gloobinho HD" group-title="DESENHOS", Gloobinho HD
+http://list.deeplist.nl/live/jcantel01/cantel123/17136.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dDOiiymsdq0/XgfaSKuKmgI/AAAAAAAAB-w/-l7rJ_kwOtMN0OcJ3JqF2wSvLWxwGLsfwCLcBGAsYHQ/s1600/GB.jpg" tvg-name="Gloobinho SD 1" group-title="DESENHOS", Gloobinho SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38723.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dDOiiymsdq0/XgfaSKuKmgI/AAAAAAAAB-w/-l7rJ_kwOtMN0OcJ3JqF2wSvLWxwGLsfwCLcBGAsYHQ/s1600/GB.jpg" tvg-name="Gloobinho SD 2" group-title="DESENHOS", Gloobinho SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38724.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dDOiiymsdq0/XgfaSKuKmgI/AAAAAAAAB-w/-l7rJ_kwOtMN0OcJ3JqF2wSvLWxwGLsfwCLcBGAsYHQ/s1600/GB.jpg" tvg-name="Gloobinho SD 3" group-title="DESENHOS", Gloobinho SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38725.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dDOiiymsdq0/XgfaSKuKmgI/AAAAAAAAB-w/-l7rJ_kwOtMN0OcJ3JqF2wSvLWxwGLsfwCLcBGAsYHQ/s1600/GB.jpg" tvg-name="Gloobinho SD+" group-title="DESENHOS", Gloobinho SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/23976.m3u8
 
 ################################################################################################################
 INTERNACIONAIS
@@ -129,6 +267,12 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?EDSONS
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AGw47U1jP8k/XgdtYkka_MI/AAAAAAAAB9E/2H8031k2D2stn5ax1-UUdizR_qtJJkd8wCLcBGAsYHQ/s1600/TV_C_N.jpg" tvg-name="Canção Nova SD" group-title="RELIGIOSOS", Canção Nova SD
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_540_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida HD" group-title="ABERTOS", TV Aparecida HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j1GjY_tB8R8/XgVIIQuCilI/AAAAAAAAB4s/7JRu6jXEDlIdaEfgYDzkVulFCCRSB0JgACLcBGAsYHQ/s1600/TV_A.jpg" tvg-name="TV Aparecida" group-title="ABERTOS", TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ny0cEt9HqUM/XgVIZ1kgNjI/AAAAAAAAB40/qENTOS5hrAgv5mU08K548CNFGcMr2u9ZwCLcBGAsYHQ/s1600/G_M.jpg" tvg-name="Gospel Movies" group-title="RELIGIOSOS", Gospel Movies
 http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
 
@@ -143,6 +287,57 @@ http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 ################################################################################################################
 ESPORTES
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3KRbW7azqTk/XgfujZtRnVI/AAAAAAAACAg/_cdWB-ACLXY8_DNToCyI0kF1bZfcR8MLwCLcBGAsYHQ/s1600/B_S.jpg" tvg-name="Band Sports" group-title="ESPORTES", Band Sports
+http://list.deeplist.nl/live/jcantel01/cantel123/1106.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3KRbW7azqTk/XgfujZtRnVI/AAAAAAAACAg/_cdWB-ACLXY8_DNToCyI0kF1bZfcR8MLwCLcBGAsYHQ/s1600/B_S.jpg" tvg-name="Band Sports HD" group-title="ESPORTES", Band Sports HD
+http://list.deeplist.nl/live/jcantel01/cantel123/2407.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate FULL HD" group-title="ESPORTES", Combate FULL HD
+http://list.deeplist.nl/live/jcantel01/cantel123/52650.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate HD" group-title="ESPORTES", Combate HD
+http://list.deeplist.nl/live/jcantel01/cantel123/1088.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate SD 1" group-title="ESPORTES", Combate SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38746.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate SD 2" group-title="ESPORTES", Combate SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/38745.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate SD 3" group-title="ESPORTES", Combate SD 3
+http://list.deeplist.nl/live/jcantel01/cantel123/38744.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkoGpqDsCoc/XgfmfE2SaiI/AAAAAAAAB_s/PKsdKvstrYQz4ovE9BeZ7oojDdjErJZTwCEwYBhgL/s1600/C.jpg" tvg-name="Combate SD+" group-title="ESPORTES", Combate SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/22442.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ImX8ODvbh74/Xgfn66mNbAI/AAAAAAAACAM/DTfOglHwdbIosyjMj0c1r1SruLsSaCXuACLcBGAsYHQ/s1600/ESPN.jpg" tvg-name="ESPN SD 1" group-title="ESPORTES", ESPN SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38754.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ImX8ODvbh74/Xgfn66mNbAI/AAAAAAAACAM/DTfOglHwdbIosyjMj0c1r1SruLsSaCXuACLcBGAsYHQ/s1600/ESPN.jpg" tvg-name="ESPN SD 2" group-title="ESPORTES", ESPN SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/1718.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ImX8ODvbh74/Xgfn66mNbAI/AAAAAAAACAM/DTfOglHwdbIosyjMj0c1r1SruLsSaCXuACLcBGAsYHQ/s1600/ESPN.jpg" tvg-name="ESPN SD+" group-title="ESPORTES", ESPN SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/38387.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RdJDbWmCwN4/Xgfn7P79yVI/AAAAAAAACAQ/2SQB5lsOqNYGwE9jPY39_9GBY8kAh1v3QCEwYBhgL/s1600/ESPN2.jpg" tvg-name="ESPN 2 SD 2" group-title="ESPORTES", ESPN 2 SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38756.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RdJDbWmCwN4/Xgfn7P79yVI/AAAAAAAACAQ/2SQB5lsOqNYGwE9jPY39_9GBY8kAh1v3QCEwYBhgL/s1600/ESPN2.jpg" tvg-name="ESPN 2 SD 2" group-title="ESPORTES", ESPN 2 SD 2
+http://list.deeplist.nl/live/jcantel01/cantel123/2395.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RdJDbWmCwN4/Xgfn7P79yVI/AAAAAAAACAQ/2SQB5lsOqNYGwE9jPY39_9GBY8kAh1v3QCEwYBhgL/s1600/ESPN2.jpg" tvg-name="ESPN 2 SD+" group-title="ESPORTES", ESPN 2 SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/38416.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dEw1D4UxWwg/Xgfn63GYzHI/AAAAAAAACAU/8wb9Ec2CMUA_tI6k17TTcajWPXoxLJWrgCEwYBhgL/s1600/ESPN_B.jpg" tvg-name="ESPN Brasil HD" group-title="ESPORTES", ESPN Brasil HD
+http://list.deeplist.nl/live/jcantel01/cantel123/2387.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dEw1D4UxWwg/Xgfn63GYzHI/AAAAAAAACAU/8wb9Ec2CMUA_tI6k17TTcajWPXoxLJWrgCEwYBhgL/s1600/ESPN_B.jpg" tvg-name="ESPN Brasil SD 1" group-title="ESPORTES", ESPN Brasil SD 1
+http://list.deeplist.nl/live/jcantel01/cantel123/38758.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dEw1D4UxWwg/Xgfn63GYzHI/AAAAAAAACAU/8wb9Ec2CMUA_tI6k17TTcajWPXoxLJWrgCEwYBhgL/s1600/ESPN_B.jpg" tvg-name="ESPN Brasil SD+" group-title="ESPORTES", ESPN Brasil SD+
+http://list.deeplist.nl/live/jcantel01/cantel123/38415.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqrt_zRljKw/XgVIsbWuEqI/AAAAAAAAB5M/UdlMMjtuMP8JR63Hm2QV2IfMf1LOAu0rgCEwYBhgL/s1600/RM_TV.jpg" tvg-name="Real Madrid TV op.1" group-title="ESPORTES", Real Madrid TV op.1
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
