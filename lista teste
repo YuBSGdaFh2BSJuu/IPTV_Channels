@@ -1,0 +1,75 @@
+#EXTM3U
+
+################################################################################################################
+ABERTOS
+
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/FP-vGJG4o9ygXU7gLXuaBJQMfu5kTa2YZSwblfsrJRJS0Vqosckc2GDzHD1NQ5zjdA" tvg-id="0" group-title="ABERTOS",SBT PI- Canal FutucAndroiD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTOS", SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+
+#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="ABERTOS", SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+
+#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="ABERTOS", REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+
+#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="ABERTOS", REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+
+#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="ABERTOS",  REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="ABERTOS", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="ABERTOS", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="ABERTOS", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="ABERTOS",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="ABERTOS",TV FUTURA 
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS",TV CULTURA BA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS",TV CULTURA PR
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="ABERTOS",TV CULTURA PB
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+
+#EXTINF:-1 tvg-id="CANÇÃO NOVA" tvg-logo="https://i.imgur.com/CSoMkJU.png?1" group-title="ABERTOS",CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-yph9XIZBxiA/Wd6D3LSyqII/AAAAAAAAsIQ/GRlsrsyNWwMcr8Pw9tw1VTWpivoY3FYNQCLcBGAs/s1600/LOGO-TV_institucional.png" group-title="ABERTOS", TV APARECIDA 
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/pH6htYz.png?1" group-title="ABERTOS", TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+################################################################################################################
